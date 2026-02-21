@@ -22,9 +22,7 @@ Technical Enterprise Account Executive with **10+ years of experience** scaling 
 ---
 
 ### ## Core Competencies
-
-| --- | --- |
-| **Sales Strategy** | Full Life Cycle Enterprise Sales, MEDDPICC, Founding Sales / GTM Motion |
+**Sales Strategy** | Full Life Cycle Enterprise Sales, MEDDPICC, Founding Sales / GTM Motion |
 | **Technical Breadth** | Network Automation, InfoSec/AppSec, IoT, Infrastructure Data Management |
 | **Languages** | English, French, Levantine Arabic, Italian <br>
 
