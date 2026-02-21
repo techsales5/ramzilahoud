@@ -1,9 +1,10 @@
 ---
-title: Contact
+title: "Contact"
 order: 1
+in_menu: true
 ---
+**Contact Details**
 
-L'Échappée Belle est actuellement composée de 6 membres.
-
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+* **Email:** [ram.lahoud@gmail.com](mailto:ram.lahoud@gmail.com)
+* **Phone:** +33 7 86 88 27 58
+* **Social:** [LinkedIn](https://www.linkedin.com) 
