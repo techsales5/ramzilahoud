@@ -15,13 +15,13 @@ in_menu: true
 
 ---
 
-### ## Overview
+### Overview
 
 Technical Enterprise Account Executive with **10+ years of experience** scaling high-growth startups and selling complex infrastructure solutions. I utilize an engineering-backed approach to Network Automation, Cybersecurity, and Energy Systems, with a deep mastery of **MEDDPICC** and founding sales motions.
 
 ---
 
-### ## Core Competencies
+### Core Competencies
 **Sales Strategy** | Full Life Cycle Enterprise Sales, MEDDPICC, Founding Sales / GTM Motion |
 | **Technical Breadth** | Network Automation, InfoSec/AppSec, IoT, Infrastructure Data Management |
 | **Languages** | English, French, Levantine Arabic, Italian <br>
